@@ -1,6 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Bofeng&center=true&size=28&duration=3000">
-</p>
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Bofeng!</h1>
 
 🎓 I'm a passionate problem-solver with a strong focus on building scalable software and tackling complex, real-world challenges through elegant code.
 
