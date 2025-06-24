@@ -2,7 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Bofeng&center=true&size=28&duration=3000">
 </p> -->
 
-<h1 align="center">Hi 👋, I'm Bofeng!</h1>
+<h1 align="center">
+  Hi 
+  <img 
+    src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" 
+    width="50" 
+    style="vertical-align: middle; margin-bottom: 5px;" 
+  /> 
+  I'm Bofeng!
+</h1>
 
 🎓 I'm a passionate problem-solver with a strong focus on building scalable software and tackling complex, real-world challenges through elegant code.
 
