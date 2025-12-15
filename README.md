@@ -12,38 +12,40 @@
   I'm Bofeng!
 </h1>
 
-🎓 I'm a passionate problem-solver with a strong focus on building scalable software and tackling complex, real-world challenges through elegant code.
+🎓 Passionate about software, design, and their impact on the world. I thrive on problem-solving and collaboration, aiming to create innovative solutions that make a meaningful difference.
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🧠 Diving deeper into full-stack web development and cloud-native tools.
+- 🧠 Building scalable full-stack applications and cloud-native systems
+- 🤝 Contributing to community projects and open-source initiatives
+- 📚 Continuously exploring new technologies and best practices
 
 ---
 
 ## 💻 Tech Stack
 
-### 🔧 Frontend Tools  
-Next.js • React • Angular • npm • Redux Toolkit/RTK Query • Axios • Tailwind CSS • Material UI • PrimeNG • Html 5 • CSS • TypeScript
+### 🔧 Frontend
+React • Angular • Next.js • Redux • Tailwind CSS • shadcn/ui • TypeScript • JavaScript • HTML5/CSS • ESLint • npm
 
-### 🛠️ Backend Systems  
-Spring Boot • Apache Maven • Java • Node.js • Express • Prisma • PostgreSQL • MySQL • MongoDB • Docker
+### 🛠️ Backend
+Node.js • Express • Spring Boot • Prisma • Java • SQL • NoSQL
 
-### ☁️ Cloud Practices  
-AWS • Amplify • Microsoft Azure • Terraform • GitHub Actions • Jenkins
+### ☁️ Cloud & DevOps
+AWS • Amplify • Microsoft Azure • Azure Application Insights • Terraform • Docker • GitHub Actions
 
-### ✅ Quality Assurance  
-Git • GitHub • IntelliJ IDEA • Visual Studio Code • Playwright • Postman • Jira • Confluence
+### ✅ Quality Assurance
+Git • Playwright • Jest • Postman • Shell Scripting
 
-### 📊 Data Insights  
-Pytorch • Torchvision • Keras • Hugging Face • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn • Python
+### 📊 Data Science & ML
+PyTorch • Keras • Hugging Face • OpenAI API • Scikit-Learn • NumPy • Pandas • Matplotlib • Python
 
 ---
 
 ## 🧩 Beyond Code
 
-I’m a curious mind who thrives on learning and iteration — whether it's debugging a tough problem or exploring a new idea from scratch. Outside of tech, I’m into thoughtful design, music, and long walks that spark even longer ideas. Constantly striving to balance engineering precision with creative flow.
+A curious mind who thrives on learning and iteration — whether debugging a tough problem or exploring a new idea from scratch. I believe in user-centric thinking, effective communication, and creativity. Always striving to balance engineering precision with meaningful impact.
 
 ---
 
